@@ -1,0 +1,16 @@
+{
+  "name": "Jiu Hub",
+  "short_name": "Jiu Hub",
+  "description": "Biblioteca de técnicas, check-in de treinos e progresso para praticantes de Jiu-Jítsu.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e13",
+  "theme_color": "#0a0e13",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
