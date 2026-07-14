@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jiuhubjj.netlify.app/sitemap.xml
